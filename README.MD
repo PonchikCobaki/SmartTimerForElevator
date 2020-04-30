@@ -1,2 +1,6 @@
-# SmartTimerForElevator
- 
+![alt text](photo/logo.jpg "")
+
+Умный таймер для устройств с защитой от выключение и "циклической ошибкой" перед завершением работы таймера.
+
+![alt text](photo/1.jpg "")
+![alt text](photo/2.jpg "")
